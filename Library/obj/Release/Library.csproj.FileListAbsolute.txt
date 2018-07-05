@@ -1,0 +1,14 @@
+D:\C#\Library\Library\bin\Release\Library.exe.config
+D:\C#\Library\Library\bin\Release\Library.exe
+D:\C#\Library\Library\bin\Release\Library.pdb
+D:\C#\Library\Library\obj\Release\Library.csprojResolveAssemblyReference.cache
+D:\C#\Library\Library\obj\Release\Library.bookManage.resources
+D:\C#\Library\Library\obj\Release\Library.bookRent.resources
+D:\C#\Library\Library\obj\Release\Library.bookReturn.resources
+D:\C#\Library\Library\obj\Release\Library.bookSearch.resources
+D:\C#\Library\Library\obj\Release\Library.Login.resources
+D:\C#\Library\Library\obj\Release\Library.main.resources
+D:\C#\Library\Library\obj\Release\Library.Properties.Resources.resources
+D:\C#\Library\Library\obj\Release\Library.csproj.GenerateResource.Cache
+D:\C#\Library\Library\obj\Release\Library.exe
+D:\C#\Library\Library\obj\Release\Library.pdb
